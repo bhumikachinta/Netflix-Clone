@@ -11,7 +11,7 @@ This is the core code from scratch to clone the landing page of Netflix using **
 
 
 
-## Watch the Live [Demo](https://github.com/bhumikachinta/Netflix-Clone)
+## Watch the Live [Demo](https://inquisitive-brioche-a5c821.netlify.app/)
 
 
 
